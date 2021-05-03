@@ -4,9 +4,9 @@ To twoja pierwsza aplikacja w React Native. Potraktujmy ją jako aplikację typu
 Aplikacja działa brakuje jej jedynie linka do w ekranie startowym. 
 - odpal aplikacje używając komendy `yarn start` albo `npm start`
 - na ekranie startowym – znajdującym się w komponencie `Welcome Screen` w pliku `./components/WelcomeScreen/index.js` znajduje się komponent `Text` zachęcający do gry. Brakuje mu jedynie linka do właściwego ekranu. Podlinkuj tekst przy pomocy props'a `onPress={() => navigation.navigate('Game')`. Props musisz umieścić w komponencie reagującym na przycisk. Masz kilka do wyboru:
--- https://reactnative.dev/docs/button
--- https://reactnative.dev/docs/touchableopacity
--- https://reactnative.dev/docs/touchablehighlight
+-* https://reactnative.dev/docs/button
+-* https://reactnative.dev/docs/touchableopacity
+-* https://reactnative.dev/docs/touchablehighlight
 
 Na tym etapie nie musisz wszystkiego rozumieć. W trakcie kursu nauczymy się wszystkich zastosowanych w tym przykładzie rozwiązań.
 
