@@ -1,0 +1,1 @@
+# Spróbujmy wykorzystać możliwości które dają nam aplikacje mobilne
