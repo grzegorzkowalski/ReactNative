@@ -1,6 +1,6 @@
 # All over the world!!!
 
-1. Stworzyliśmy prosta aplikację której celem jest wyświetlenie listy wszystkich krajów naszego globu. Aplikacja pobiera dane z publicznego api – znajdującego się pod adresem [Klik!](https://restcountries.eu/rest/v2/alpha?codes=af). Przyjrzyj się danym pobieranym z api. 
+1. Stworzyliśmy prostą aplikację której celem jest wyświetlenie listy wszystkich krajów naszego globu. Aplikacja pobiera dane z publicznego api – znajdującego się pod adresem [Klik!](https://restcountries.eu/rest/v2/alpha?codes=af). Przyjrzyj się danym pobieranym z api. 
 2. Jak nie trudno się domyśleć pobieramy jedynie nazwę państwa z bogatego zasobu danych odnoszących się do każdego kraju. Rozbuduj aplikację w taki sposób aby każdy kafelek z krajem zawierał więcej inforamacji. 
 3. Przyjrzyj się Komponentowi `FlatList`. To specjalny komponent służący do wyświetlania długich list. Zobacz w jaki sposób renderuje on poszczególne elementy. 
 4. Potrzebujesz inspiracji:
