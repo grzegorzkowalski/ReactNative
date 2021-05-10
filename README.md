@@ -1,7 +1,6 @@
-# Szkolenie Noble Prog
+# Szkolenie techniki tworzenia aplikacji mobilnych w React
 
-1. Kółko i krzyżyk
-2. Pobierz listę wszystkich państwa świata
-3. Poznaj możliwości aplikacji mobilnych
-
-Aby wykonać zadanie przejdź w terminalu do folderu z zadaniem. Następnie wykonaj komendy `npm install` i `npm start`. Zadania działają w Expo. Zainstaluj aplikację na telefon i zeskanuj kod QR instancji aplikacji widoczny w terminalu lub przeglądarce (pamiętaj, że telefon i twoj komputer muszą być w tej samej sieci).
+1. Rozdział 0 - powtórka JavaScript, ES6+
+2. Rozdział 1 - prezentacja możliwości 
+3. Rozdział 2 - debugowanie
+3. Rozdział 3 - poznanie architektury React i Rect Native
