@@ -2,6 +2,8 @@
 
 Zalecamy zrobienie forka dzięki temu bedziecie mogli trzymać swoje zmiany w systemie kontroli wersji.
 
+Zacznij od stworzenia projektu przy pomocy Expo lub React Native CLI
+
 ## Zadanie 1 
 
 Stwórz dwa komponenty:
