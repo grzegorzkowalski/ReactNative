@@ -4,7 +4,7 @@ import { View, Text, TouchableOpacity, StyleSheet } from "react-native";
 export default function WelcomeScreen({ navigation }) {
   return (
     <View style={styles.container}>
-      <Text style={styles.welcome}>Witaj w grze</Text>
+      {/* <Text style={styles.welcome}>Witaj w grze</Text> */}
         <Text style={styles.instructions}>Zaczynamy</Text>
     </View>
   );
