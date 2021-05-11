@@ -5,9 +5,7 @@ export default function WelcomeScreen({ navigation }) {
   return (
     <View style={styles.container}>
       <Text style={styles.welcome}>Witaj w grze</Text>
-      <TouchableOpacity onPress={() => navigation.navigate('Game')}>
         <Text style={styles.instructions}>Zaczynamy</Text>
-      </TouchableOpacity>
     </View>
   );
 }
