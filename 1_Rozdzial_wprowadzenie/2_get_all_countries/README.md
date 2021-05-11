@@ -4,7 +4,6 @@
 2. Jak nie trudno się domyśleć pobieramy jedynie nazwę państwa z bogatego zasobu danych odnoszących się do każdego kraju. Rozbuduj aplikację w taki sposób aby każdy kafelek z krajem zawierał więcej inforamacji. 
 3. Przyjrzyj się Komponentowi `FlatList`. To specjalny komponent służący do wyświetlania długich list. Zobacz w jaki sposób renderuje on poszczególne elementy. 
 4. Potrzebujesz inspiracji:
-  * Wczytaj flagę państwa do komponentu `Image`
   * Spróbuj wyświetlić aktualny czas w danym kraju. Użyj obiektu `Date` z silnika JS.
   * Wyświetl nazwę kraju w jego własnym języku
   * Podaj przybliżony dystans kraju do Łomży (koordynaty dla Łomży pobierz z google maps)
