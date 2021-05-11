@@ -24,8 +24,8 @@ export default class GameScreen extends Component {
       StackActions.reset({
         index: 1,
         actions: [
-          NavigationActions.navigate({ routeName: 'Cześć' }),
-          NavigationActions.navigate({ routeName: 'Gra' }),
+          NavigationActions.navigate({ routeName: 'Welcome' }),
+          NavigationActions.navigate({ routeName: 'Game' }),
         ],
       }),
     );
