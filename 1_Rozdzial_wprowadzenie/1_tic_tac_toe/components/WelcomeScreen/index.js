@@ -5,7 +5,7 @@ export default function WelcomeScreen({ navigation }) {
   return (
     <View style={styles.container}>
       <Text style={styles.welcome}>Witaj w grze</Text>
-    {# TODO: Napisz swój kod tutaj #}
+    {* TODO: Napisz swój kod tutaj *}
       <Text style={styles.instructions}>Zaczynamy</Text>
     </View>
   );
