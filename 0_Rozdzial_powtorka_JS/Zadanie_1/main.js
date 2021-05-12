@@ -12,7 +12,17 @@ function testVars() {
 	let dog = "pekińczyk";
 	const cat = "syjamski";
 	var chomik = "syryjski";
+	console.log(dog, chomik,cat);
+	function innerFunc() {
+		console.log(dog);
+		let crocodole = "krokodyl";
+	}
+	innerFunc();
+	console.log(crocodole);
 }
+
+testVars();
+
 
 
 /*

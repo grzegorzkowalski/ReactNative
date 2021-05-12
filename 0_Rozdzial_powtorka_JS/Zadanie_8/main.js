@@ -4,3 +4,10 @@ const employee = {
 	age: 54,
 	occupation: "Policeman"
 }
+
+const {name, surname, age, occupation} = employee;
+console.log(name, surname, age, occupation);
+
+const text = `Nazywam się ${name} ${surname}. Mam ${age} lata. Moj zawod to ${occupation}.`;
+
+console.log(text);
