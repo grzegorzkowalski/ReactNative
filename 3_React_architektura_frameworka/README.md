@@ -16,7 +16,7 @@ Stwórz komponent funkcyjny, w którym utworzysz 3 komponenty funkcyjne z kwadra
 
 ## Zadanie 3
 
-Stwórz komponent tekstowy. Wyświetl w nim bieżącą datę, która będzie zawierała dzień, miesiąc i rok. Format danych dowolny.
+Stwórz komponent tekstowy. Wyświetl w nim bieżącą datę, która bedzie zawierała dzień, miesiąc i rok. Format danych dowolny.
 
 ## Zadanie 4
 
