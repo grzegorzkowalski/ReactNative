@@ -2,7 +2,7 @@
 
 Zalecamy zrobienie forka dzięki temu bedziecie mogli trzymać swoje zmiany w systemie kontroli wersji.
 
-## Zadanie 1 
+## Zadanie 1
 
 Stwórz dwa komponenty:
 
@@ -12,11 +12,11 @@ Stwórz dwa komponenty:
 
 ## Zadanie 2
 
-Stwórz komponent funkcyjny, w którym utworzysz 3 komponenty funkcyjne z kwadratami różnych kolorów. Do tego każdy z nich ma mieć ustawiony margines na 10px. 
+Stwórz komponent funkcyjny, w którym utworzysz 3 komponenty funkcyjne z kwadratami różnych kolorów. Do tego każdy z nich ma mieć ustawiony margines na 10px.
 
 ## Zadanie 3
 
-Stwórz komponent tekstowy. Wyświetl w nim bierzącą datę, która bedzie zawierała dzień, miesiąc i rok. Format danych dowolny.
+Stwórz komponent tekstowy. Wyświetl w nim bieżącą datę, która bedzie zawierała dzień, miesiąc i rok. Format danych dowolny.
 
 ## Zadanie 4
 
@@ -28,7 +28,7 @@ Przy okazji omawiania View komponentu na slajdzie był przedstawiony układ blok
 
 Wykorzystując obiekt StyleSheet i komponent View odtwórz ten układ samodzielnie.
 
-## Zadanie 6 
+## Zadanie 6
 
 W React Native nie ma znaczników oznaczających wyboldowanie lub pochylenie fontu. Wykorzystuje się do tego zagnieżdżone komponenty Text z odpowiednimi stylami.
 
@@ -42,8 +42,8 @@ Wyświetl poniższy tekst w komponentach w ten sposób, żeby:
 
 ## Zadanie 7
 
-- W pliku `App.js` stwórz obiekt `inviteData`, który będzie zawierał informacje o imprezie urodzinowe - data, godzina, miejsce, strój obowiązujący.
-- stwórz komponent funkcyjny `Invitation`, które będzie wyswietlało treść zaproszenia wraz z niezbednymi danymi. 
+- W pliku `App.js` stwórz obiekt `inviteData`, który będzie zawierał informacje o imprezie urodzinowej - data, godzina, miejsce, strój obowiązujący.
+- stwórz komponent funkcyjny `Invitation`, który będzie wyświetlał treść zaproszenia wraz z niezbędnymi danymi.
 - dane przekaż przez props. Wykorzystaj w komponencie destrukturyzację, żeby zapis komponentu był czystszy.
 
 ## Zadanie 8
@@ -51,10 +51,10 @@ Wyświetl poniższy tekst w komponentach w ten sposób, żeby:
 - W pliku `App.js` stwórz zmienną `dataTime` gdzie zapiszesz aktualny czas i datę skorzystaj z obiektu `Date()` i odpowiedniej metody.
 - Stwórz komponent funkcyjny `DataTimer` przekaż do niego przez propsy zmienną `dataTime` i wyświetl datę i godzinę.
 
-## Zadanie 9 
+## Zadanie 9
 
-- Zmodyfikuj powyższe zadanie. 
-- Do komponentu głównego `App.js` dodaj hooka useState. 
+- Zmodyfikuj powyższe zadanie.
+- Do komponentu głównego `App.js` dodaj hooka useState.
 - Co sekundę za pomocą `setInterval` aktualizuj stan.
 - Zamiast zmiennej do komponentu `DataTimer` przekazuj wartość stanu.
 
