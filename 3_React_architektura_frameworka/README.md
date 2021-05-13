@@ -16,7 +16,7 @@ Stwórz komponent funkcyjny, w którym utworzysz 3 komponenty funkcyjne z kwadra
 
 ## Zadanie 3
 
-Stwórz komponent tekstowy. Wyświetl w nim bierzącą datę, która bedzie zawierała dzień, miesiąc i rok. Format danych dowolny.
+Stwórz komponent tekstowy. Wyświetl w nim bieżącą datę, która będzie zawierała dzień, miesiąc i rok. Format danych dowolny.
 
 ## Zadanie 4
 
@@ -42,8 +42,8 @@ Wyświetl poniższy tekst w komponentach w ten sposób, żeby:
 
 ## Zadanie 7
 
-- W pliku `App.js` stwórz obiekt `inviteData`, który będzie zawierał informacje o imprezie urodzinowe - data, godzina, miejsce, strój obowiązujący.
-- stwórz komponent funkcyjny `Invitation`, które będzie wyswietlało treść zaproszenia wraz z niezbednymi danymi. 
+- W pliku `App.js` stwórz obiekt `inviteData`, który będzie zawierał informacje o imprezie urodzinowej - data, godzina, miejsce, strój obowiązujący.
+- stwórz komponent funkcyjny `Invitation`, który będzie wyświetlał treść zaproszenia wraz z niezbędnymi danymi. 
 - dane przekaż przez props. Wykorzystaj w komponencie destrukturyzację, żeby zapis komponentu był czystszy.
 
 ## Zadanie 8
