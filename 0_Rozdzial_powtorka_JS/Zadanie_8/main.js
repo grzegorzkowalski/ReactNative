@@ -2,7 +2,7 @@ const employee = {
 	name: "Krzysztof",
 	surname: "Nowak",
 	age: 54,
-	occupation: "Policeman"
+	occupation: "Policjant"
 }
 
 const {name, surname, age, occupation} = employee;

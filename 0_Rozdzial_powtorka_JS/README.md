@@ -16,7 +16,7 @@ Rozważ nastepujące przypadki:
 
 - "Ala ma kota"
 
-Podpowiedź zignoruj spacje.
+Podpowiedź zignoruj spacje i wielkośc liter.
 
 
 ## Zadanie 3
@@ -26,14 +26,6 @@ W pliku main js znajduje się tablica `numbers` i funkcja `compareNumbers`.
 - Przepisz funkcję `compareNumbers`na wersję strzałkową.
 
 - Za pomocą metody sort i przekazanej jako parametr powyższej funkcji posortuj i wyswietl w konsoli tablicę `numbers`.
-
-## Zadanie 3
-
-Stwórz klasę Dog.
-
-- Ustaw w konstruktorze właściwości `name`, `age`, `legs`, `breed`.
-- Dodaj dwie metody: `introduceMyself`, która wyświetli w konsoli podane dane i `bark`, pies niech zaszczeka.
-- Stwórzy nowy obiekt typu pies, podaj w konstruktorze odpowiednie dane wejściowe i wywołaj metody `introduceMyself` i `bark`.
 
 ## Zadanie 4
 
@@ -68,3 +60,11 @@ Za pomocą pętli wyświetl w konsoli (zmienna `cake`) tort urodziny za każdy s
 ## Zadanie 10
 
 Napisz funkcję, która losuję liczbę w przedziale od 1 do 10 zwraca czy jest ona parzysta czy nie. 
+
+## Zadanie 11
+
+Stwórz klasę Dog.
+
+- Ustaw w konstruktorze właściwości `name`, `age`, `legs`, `breed`.
+- Dodaj dwie metody: `introduceMyself`, która wyświetli w konsoli podane dane i `bark`, pies niech zaszczeka.
+- Stwórzy nowy obiekt typu pies, podaj w konstruktorze odpowiednie dane wejściowe i wywołaj metody `introduceMyself` i `bark`.
