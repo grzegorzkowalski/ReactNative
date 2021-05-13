@@ -2,5 +2,5 @@ const employee = {
 	name: "Krzysztof",
 	surname: "Nowak",
 	age: 54,
-	occupation: "Policeman"
+	occupation: "Policjant"
 }
