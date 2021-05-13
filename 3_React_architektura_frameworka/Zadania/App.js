@@ -1,13 +1,15 @@
 import React from 'react';
 import { StyleSheet, Text, View } from 'react-native';
-import Name from "./Name";
-import Surname from "./Surname";
+import Name from "./Zadanie1/Name";
+import Surname from "./Zadanie1/Surname";
+import SquareBox from "./Zadanie2/SquareBox";
 
 export default function App() {
   return (
     <View style={styles.container}>
       <Name />
       <Surname />
+      <SquareBox/>
     </View>
   );
 }
