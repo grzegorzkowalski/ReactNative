@@ -4,6 +4,8 @@ import Name from "./Zadanie1/Name";
 import Surname from "./Zadanie1/Surname";
 import SquareBox from "./Zadanie2/SquareBox";
 import Clock from "./Zadanie3/Clock";
+import Map from "./Zadanie4/Map";
+import Grid from "./Zadanie5/Grid";
 
 export default function App() {
     return (
@@ -11,7 +13,9 @@ export default function App() {
             <Name />
             <Surname />
             <Clock/>
-            <SquareBox/>
+            {/*<Map url={"https://bliskopolski.pl/pliki/mapa-polski-1701.png"}/>*/}
+            {/*<SquareBox/>*/}
+            <Grid/>
         </View>
     );
 }
