@@ -8,11 +8,12 @@ import {
   ActivityIndicator,
   SafeAreaView,
   Button,
+  TouchableHighlight,
 } from "react-native";
 
 const API_URL = "https://goquotes-api.herokuapp.com/api/v1/all/authors";
 
-export default function App({navigation, route}) {
+export default function App({ navigation, route }) {
   const [authors, setAuthors] = useState([]);
 
   useEffect(() => {
@@ -29,8 +30,13 @@ export default function App({navigation, route}) {
 
   const renderItem = ({ item }) => (
     <View style={styles.item}>
-      
-      <Text style={styles.title}>{item.name}</Text>
+      <TouchableHighlight onPress={() => {
+        navigation.navigate('Author', {
+          author: item.name
+        })
+      }}>
+        <Text style={styles.title}>{item.name}</Text>
+      </TouchableHighlight>
     </View>
   );
 
@@ -60,6 +66,6 @@ const styles = StyleSheet.create({
   },
   item: {
     flex: 1,
-    padding: 15
+    padding: 15,
   },
 });
