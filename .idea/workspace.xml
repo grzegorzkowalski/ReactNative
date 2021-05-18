@@ -1,20 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4e1740b4-ff38-422c-acac-e8bb8c0775e8" name="Default Changelist" comment="">
+    <list default="true" id="896706a1-9a36-4c05-a85b-e25af5201808" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/4_React_navigation/1_stack_navigator/AboutUsScreen.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/ReactNative.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4_React_navigation/1_stack_navigator/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/4_React_navigation/1_stack_navigator/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4_React_navigation/2_passing_params/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/4_React_navigation/2_passing_params/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4_React_navigation/1_stack_navigator/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/4_React_navigation/1_stack_navigator/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4_React_navigation/1_stack_navigator/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/4_React_navigation/1_stack_navigator/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4_React_navigation/2_passing_params/components/Authors.js" beforeDir="false" afterPath="$PROJECT_DIR$/4_React_navigation/2_passing_params/components/Authors.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4_React_navigation/2_passing_params/package-lock.json" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="1sTGQXOeGdHjScB9CklsyTAh3xk" />
+  <component name="ProjectId" id="1sREezjujOMBm3LX2zhpYFfvulG" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -23,20 +37,26 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\ReactNativeSzkolenie\Rozwiazania\ReactNative\3_React_architektura_frameworka\Zadania" />
+      <recent name="C:\ReactNativeSzkolenie\Rozwiazania\ReactNative\3_React_architektura_frameworka\Zadania\Zadanie1" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="4e1740b4-ff38-422c-acac-e8bb8c0775e8" name="Default Changelist" comment="" />
-      <created>1620889149837</created>
+      <changelist id="896706a1-9a36-4c05-a85b-e25af5201808" name="Default Changelist" comment="" />
+      <created>1620827103322</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1620889149837</updated>
-      <workItem from="1620889151884" duration="2859000" />
-      <workItem from="1621292192898" duration="124000" />
-      <workItem from="1621315944225" duration="1042000" />
+      <updated>1620827103322</updated>
+      <workItem from="1620827107885" duration="11199000" />
+      <workItem from="1621347725494" duration="12314000" />
     </task>
     <servers />
   </component>
