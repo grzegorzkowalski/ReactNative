@@ -34,10 +34,13 @@ db.collection("cities")
 
 export default function App() {
   const [data, setData] = useState([]);
+
+
   useEffect(() => {
     // Obserwuj zmiany w danych
     var unsubscribe = db.collection("cities").onSnapshot((snapshot) => {
       let d = [];
+      
       snapshot.forEach((doc) => {
         console.log(doc.data());
         d = [...d, doc.data()];
@@ -63,7 +66,7 @@ export default function App() {
       <View>
         {data.map((x, i) => {
           return (
-            <View>
+            <View key={i}>
               <Text>{x.name}</Text>
               <Text>{x.city}</Text>
             </View>
